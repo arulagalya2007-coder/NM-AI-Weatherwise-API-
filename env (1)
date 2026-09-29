@@ -1,0 +1,5 @@
+PORT=5001
+MONGO_URI=mongodb+srv://arulagalya2007_db_user:<db_password>@cluster0.upcigxs.mongodb.net/?appName=Cluster0&compressors=zlib
+JWT_SECRET=your_super_secret_jwt_key_12345!
+OPENWEATHER_API_KEY=YOUR_OPENWEATHER_API_KEY
+GEMINI_API_KEY=AQ.Ab8RN6Iy0emP9DBqdWjtq1aRTdZX-D4mU7eIKrRw_zuAQ4osUw
